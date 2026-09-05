@@ -3,4 +3,4 @@
 :HL["/dirt-n-dust/_next/static/media/612bd71aa396cae6-s.p.0y-3ea_6ee5g5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dirt-n-dust/logo-white.svg","image"]
 :HL["/dirt-n-dust/images/v2/bike-gasgas-dune-800.webp","image",{"imageSrcSet":"/dirt-n-dust/images/v2/bike-gasgas-dune-480.webp 480w, /dirt-n-dust/images/v2/bike-gasgas-dune-800.webp 800w, /dirt-n-dust/images/v2/bike-gasgas-dune-1200.webp 1200w","imageSizes":"(min-width: 1024px) 44vw, 100vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"bikes","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"wvqYCWlhI7xgeDdO2zgZM"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"bikes","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"YlgY3Qb1NFT1QqHkmC6Kh"}
