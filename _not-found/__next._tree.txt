@@ -1,3 +1,3 @@
 :HL["/dirt-n-dust/_next/static/chunks/3_43_xwf9a9-0.css","style"]
 :HL["/dirt-n-dust/logo-white.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"HBNO6LywwBQ_zmDYnkNk-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"QrMUCaScEFg9VgxmtqFqn"}
