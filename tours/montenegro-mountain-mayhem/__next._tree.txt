@@ -1,4 +1,4 @@
 :HL["/dirt-n-dust/_next/static/chunks/1km6kw94hej7i.css","style"]
 :HL["/dirt-n-dust/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/dirt-n-dust/logo-white.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"tours","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montenegro-mountain-mayhem","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"m-6nsORrkr9GenZ2NflTs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"tours","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"montenegro-mountain-mayhem","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"HKGo4wWMxUWJVjiAfSaqO"}
