@@ -150,4 +150,18 @@
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
+<url>
+<loc>https://dirtndust.tours/blog/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://dirtndust.tours/blog/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://dirtndust.tours/de/blog/" />
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://dirtndust.tours/de/blog/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://dirtndust.tours/blog/" />
+<xhtml:link rel="alternate" hreflang="de" href="https://dirtndust.tours/de/blog/" />
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
 </urlset>
