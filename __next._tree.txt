@@ -1,4 +1,4 @@
 :HL["/dirt-n-dust/_next/static/css/18e44d86783876fc.css","style"]
 :HL["/dirt-n-dust/_next/static/css/46c3cc4429a31f96.css","style"]
 :HL["/dirt-n-dust/logo-white.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"gGwxw6AuJuGJfVnrouunT"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"Pj6wOpmxg3rHYeNx7njBe"}
